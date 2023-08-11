@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3095842531
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27710918328e26e34532cd498bf033ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1b8ae978d101eec5d12a49988ba7adf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Tree_Textures/shadow.png
+- Assets/Tree_Textures/diffuse.png
+- Assets/Tree_Textures/normal_specular.png
+- Assets/Tree_Textures/translucency_gloss.png
+- Assets/Resource/Test.mat
+Dependencies: []

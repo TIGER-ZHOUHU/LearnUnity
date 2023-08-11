@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 2570359526
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: model
+      Dependencies:
+        Dependency_0: tree
+    Info_1:
+      Name: tree
+      Dependencies: {}
