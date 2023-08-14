@@ -357,6 +357,8 @@
 "Assets/Scipts/ABManager.cs"
 "Assets/Scipts/ABTest.cs"
 "Assets/Scipts/CameraBehavior.cs"
+"Assets/Scipts/Food.cs"
+"Assets/Scipts/FoodManager.cs"
 "Assets/Scipts/PlayerBehavior.cs"
 "Assets/Scipts/SingletonAutoMono.cs"
 "Assets/Scipts/Sorting.cs"
